@@ -27,7 +27,7 @@ const MOCK_CONVERSATIONS = [
   {
     id: '2',
     name: 'Design Team',
-    lastMessage: 'Alex: I'll prepare the mockups',
+    lastMessage: 'Alex: I\'ll prepare the mockups',
     timestamp: new Date(Date.now() - 1000 * 60 * 30),
     unread: 0,
     isGroup: true,
